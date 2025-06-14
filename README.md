@@ -1,2 +1,7 @@
-# Minesweeper
-Minesweeper project
+# minesweeper game
+
+Usage:
+
+```
+pabcnetc.exe Game.pas
+```
